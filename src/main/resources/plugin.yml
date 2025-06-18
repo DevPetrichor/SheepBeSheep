@@ -1,0 +1,5 @@
+name: SheepBeSheep
+version: '0.0.1'
+main: org.Petrichor2_.sheepBeSheep.SheepBeSheep
+api-version: '1.21'
+authors: [ Petrichor2_ ]
